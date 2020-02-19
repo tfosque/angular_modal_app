@@ -1,0 +1,21 @@
+div.jumbotron {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+div {
+  text-align: center;
+}
+
+.backMap {
+  padding-top: 28px;
+  background-image: url("../../images/overlay-image.png"), url("https://lh3.googleusercontent.com/-bQzIWFMAYus/WXy3WDcphBI/AAAAAAAAAMs/unOi6HiEoi4VWaM0WiP5q32q9zDbIhUvwCLcBGAs/s1600/7-29-2017%2B11-14-59%2BAM.jpg");
+  background-repeat: no-repeat;
+  background-size: 13.5%, cover;
+  background-position: 98.75% 3%, bottom;
+  background-origin: content-box, initial;
+  height: 340px;
+  width: 100%;
+  border: solid thin #d5bdbd;
+  opacity: 1;
+}
